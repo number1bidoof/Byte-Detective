@@ -89,8 +89,6 @@ public class ByteDetective {
         } catch (IOException e) {
             System.err.println("Error reading file: " + e.getMessage());
         }
-        
-        System.out.println("TODO: Implement displayAsHex()");
     }
     
     /**
